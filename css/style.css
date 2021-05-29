@@ -21,6 +21,8 @@ body{
 }
 #result{
 	height: 90px;
+	border-radius:50%;
+	border-width:0;
 }
 #history{
 	text-align: right;
